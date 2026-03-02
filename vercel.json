@@ -1,0 +1,10 @@
+{
+  "framework": "nextjs",
+  "buildCommand": "npm run build",
+  "devCommand": "npm run dev",
+  "outputDirectory": ".next",
+  "env": {
+    "ORBITPORT_AUTH_URL": "https://auth.spacecomputer.io",
+    "ORBITPORT_API_URL": "https://op.spacecomputer.io"
+  }
+}
